@@ -1,0 +1,224 @@
+{
+    "key": "error_start",
+    "type": "frame",
+    "frames": [
+        {
+            "key": "error_start_00",
+            "duration": 0,
+            "keyframe": false
+        },
+        {
+            "key": "error_start_01",
+            "duration": 0,
+            "keyframe": false
+        },
+        {
+            "key": "error_start_02",
+            "duration": 0,
+            "keyframe": false
+        },
+        {
+            "key": "error_start_03",
+            "duration": 0,
+            "keyframe": false
+        },
+        {
+            "key": "error_start_04",
+            "duration": 0,
+            "keyframe": false
+        },
+        {
+            "key": "error_start_05",
+            "duration": 0,
+            "keyframe": false
+        },
+        {
+            "key": "error_start_06",
+            "duration": 0,
+            "keyframe": false
+        },
+        {
+            "key": "error_start_07",
+            "duration": 0,
+            "keyframe": false
+        },
+        {
+            "key": "error_start_08",
+            "duration": 0,
+            "keyframe": false
+        },
+        {
+            "key": "error_start_09",
+            "duration": 0,
+            "keyframe": false
+        },
+        {
+            "key": "error_start_10",
+            "duration": 0,
+            "keyframe": false
+        },
+        {
+            "key": "error_start_11",
+            "duration": 0,
+            "keyframe": false
+        },
+        {
+            "key": "error_start_12",
+            "duration": 0,
+            "keyframe": false
+        },
+        {
+            "key": "error_start_13",
+            "duration": 0,
+            "keyframe": false
+        },
+        {
+            "key": "error_start_14",
+            "duration": 0,
+            "keyframe": false
+        },
+        {
+            "key": "error_start_15",
+            "duration": 0,
+            "keyframe": false
+        },
+        {
+            "key": "error_start_16",
+            "duration": 0,
+            "keyframe": false
+        },
+        {
+            "key": "error_start_17",
+            "duration": 0,
+            "keyframe": false
+        },
+        {
+            "key": "error_start_18",
+            "duration": 0,
+            "keyframe": false
+        },
+        {
+            "key": "error_start_19",
+            "duration": 0,
+            "keyframe": false
+        },
+        {
+            "key": "error_start_20",
+            "duration": 0,
+            "keyframe": false
+        },
+        {
+            "key": "error_start_21",
+            "duration": 0,
+            "keyframe": false
+        },
+        {
+            "key": "error_start_22",
+            "duration": 0,
+            "keyframe": false
+        },
+        {
+            "key": "error_start_23",
+            "duration": 0,
+            "keyframe": false
+        },
+        {
+            "key": "error_start_24",
+            "duration": 0,
+            "keyframe": false
+        },
+        {
+            "key": "error_start_25",
+            "duration": 0,
+            "keyframe": false
+        },
+        {
+            "key": "error_start_26",
+            "duration": 0,
+            "keyframe": false
+        },
+        {
+            "key": "error_start_27",
+            "duration": 0,
+            "keyframe": false
+        },
+        {
+            "key": "error_start_28",
+            "duration": 0,
+            "keyframe": false
+        },
+        {
+            "key": "error_start_29",
+            "duration": 0,
+            "keyframe": false
+        },
+        {
+            "key": "error_start_30",
+            "duration": 0,
+            "keyframe": false
+        },
+        {
+            "key": "error_start_31",
+            "duration": 0,
+            "keyframe": false
+        },
+        {
+            "key": "error_start_32",
+            "duration": 0,
+            "keyframe": false
+        },
+        {
+            "key": "error_start_33",
+            "duration": 0,
+            "keyframe": false
+        },
+        {
+            "key": "error_start_34",
+            "duration": 0,
+            "keyframe": false
+        },
+        {
+            "key": "error_start_35",
+            "duration": 0,
+            "keyframe": false
+        },
+        {
+            "key": "error_start_36",
+            "duration": 0,
+            "keyframe": false
+        },
+        {
+            "key": "error_start_37",
+            "duration": 0,
+            "keyframe": false
+        },
+        {
+            "key": "error_start_38",
+            "duration": 0,
+            "keyframe": false
+        },
+        {
+            "key": "error_start_39",
+            "duration": 0,
+            "keyframe": false
+        },
+        {
+            "key": "error_start_50",
+            "duration": 0,
+            "keyframe": false
+        },
+        {
+            "key": "error_start_51",
+            "duration": 0,
+            "keyframe": false
+        },
+        {
+            "key": "error_start_52",
+            "duration": 0,
+            "keyframe": false
+        }
+    ],
+    "frameRate": 20,
+    "skipMissedFrames": true,
+    "randomFrame": false
+}

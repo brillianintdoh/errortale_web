@@ -1,0 +1,215 @@
+{
+    "key": "error_sans",
+    "type": "frame",
+    "frames": [
+        {
+            "key": "error_sans_00",
+            "duration": 0,
+            "keyframe": false
+        },
+        {
+            "key": "error_sans_01",
+            "duration": 0,
+            "keyframe": false
+        },
+        {
+            "key": "error_sans_02",
+            "duration": 0,
+            "keyframe": false
+        },
+        {
+            "key": "error_sans_03",
+            "duration": 0,
+            "keyframe": false
+        },
+        {
+            "key": "error_sans_04",
+            "duration": 0,
+            "keyframe": false
+        },
+        {
+            "key": "error_sans_05",
+            "duration": 0,
+            "keyframe": false
+        },
+        {
+            "key": "error_sans_06",
+            "duration": 0,
+            "keyframe": false
+        },
+        {
+            "key": "error_sans_07",
+            "duration": 0,
+            "keyframe": false
+        },
+        {
+            "key": "error_sans_08",
+            "duration": 0,
+            "keyframe": false
+        },
+        {
+            "key": "error_sans_09",
+            "duration": 0,
+            "keyframe": false
+        },
+        {
+            "key": "error_sans_10",
+            "duration": 0,
+            "keyframe": false
+        },
+        {
+            "key": "error_sans_11",
+            "duration": 0,
+            "keyframe": false
+        },
+        {
+            "key": "error_sans_12",
+            "duration": 0,
+            "keyframe": false
+        },
+        {
+            "key": "error_sans_13",
+            "duration": 0,
+            "keyframe": false
+        },
+        {
+            "key": "error_sans_14",
+            "duration": 0,
+            "keyframe": false
+        },
+        {
+            "key": "error_sans_15",
+            "duration": 0,
+            "keyframe": false
+        },
+        {
+            "key": "error_sans_16",
+            "duration": 0,
+            "keyframe": false
+        },
+        {
+            "key": "error_sans_17",
+            "duration": 0,
+            "keyframe": false
+        },
+        {
+            "key": "error_sans_18",
+            "duration": 0,
+            "keyframe": false
+        },
+        {
+            "key": "error_sans_19",
+            "duration": 0,
+            "keyframe": false
+        },
+        {
+            "key": "error_sans_20",
+            "duration": 0,
+            "keyframe": false
+        },
+        {
+            "key": "error_sans_21",
+            "duration": 0,
+            "keyframe": false
+        },
+        {
+            "key": "error_sans_22",
+            "duration": 0,
+            "keyframe": false
+        },
+        {
+            "key": "error_sans_23",
+            "duration": 0,
+            "keyframe": false
+        },
+        {
+            "key": "error_sans_24",
+            "duration": 0,
+            "keyframe": false
+        },
+        {
+            "key": "error_sans_25",
+            "duration": 0,
+            "keyframe": false
+        },
+        {
+            "key": "error_sans_26",
+            "duration": 0,
+            "keyframe": false
+        },
+        {
+            "key": "error_sans_27",
+            "duration": 0,
+            "keyframe": false
+        },
+        {
+            "key": "error_sans_28",
+            "duration": 0,
+            "keyframe": false
+        },
+        {
+            "key": "error_sans_29",
+            "duration": 0,
+            "keyframe": false
+        },
+        {
+            "key": "error_sans_30",
+            "duration": 0,
+            "keyframe": false
+        },
+        {
+            "key": "error_sans_31",
+            "duration": 0,
+            "keyframe": false
+        },
+        {
+            "key": "error_sans_32",
+            "duration": 0,
+            "keyframe": false
+        },
+        {
+            "key": "error_sans_33",
+            "duration": 0,
+            "keyframe": false
+        },
+        {
+            "key": "error_sans_34",
+            "duration": 0,
+            "keyframe": false
+        },
+        {
+            "key": "error_sans_35",
+            "duration": 0,
+            "keyframe": false
+        },
+        {
+            "key": "error_sans_36",
+            "duration": 0,
+            "keyframe": false
+        },
+        {
+            "key": "error_sans_37",
+            "duration": 0,
+            "keyframe": false
+        },
+        {
+            "key": "error_sans_38",
+            "duration": 0,
+            "keyframe": false
+        },
+        {
+            "key": "error_sans_39",
+            "duration": 0,
+            "keyframe": false
+        },
+        {
+            "key": "error_sans_40",
+            "duration": 0,
+            "keyframe": false
+        }
+    ],
+    "frameRate": 16,
+    "skipMissedFrames": true,
+    "repeat": -1,
+    "randomFrame": false
+}

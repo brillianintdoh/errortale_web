@@ -1,0 +1,68 @@
+html, body {
+    width:100%;
+    height:100%;
+    margin:0;
+}
+
+.main {
+    width:100%;
+    height:100%;
+    background-color:black;
+}
+
+#title {
+    position:absolute;
+    width:100%;
+    left:50%;
+    transform:translateX(-50%);
+}
+
+.title {
+    background-image:url("../img/title.png");
+    background-size:80%;
+    background-repeat:no-repeat;
+    background-position:center center;
+}
+
+.title_sans {
+    background-image:url("../img/title_sans.png");
+    background-size:70%;
+    background-repeat: no-repeat;
+    background-position:center center;
+}
+
+.start_button {
+    cursor: pointer;
+    background-image:url("../img/play_button.png");
+    background-repeat:no-repeat;
+    background-position:center center;
+    background-size:30%;
+    position:absolute;
+    left:50%;
+    transform:translateX(-50%);
+    top:50%;
+}
+
+.start_button:hover {
+    background-image:url("../img/play_click.png");
+}
+
+.down_1 {
+    top:0;
+    opacity:0;
+}
+
+.down_2 {
+    top:20%;
+    opacity:1;
+    transition:all 7s;
+}
+
+.button_aim_1 {
+    opacity:0;
+}
+
+.button_aim_2 {
+    opacity:1;
+    transition:all 7s;
+}

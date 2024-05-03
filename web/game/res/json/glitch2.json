@@ -1,0 +1,110 @@
+{
+    "key": "glitch2",
+    "type": "frame",
+    "frames": [
+        {
+            "key": "glitch2_00",
+            "duration": 0,
+            "keyframe": false
+        },
+        {
+            "key": "glitch2_01",
+            "duration": 0,
+            "keyframe": false
+        },
+        {
+            "key": "glitch2_02",
+            "duration": 0,
+            "keyframe": false
+        },
+        {
+            "key": "glitch2_03",
+            "duration": 0,
+            "keyframe": false
+        },
+        {
+            "key": "glitch2_04",
+            "duration": 0,
+            "keyframe": false
+        },
+        {
+            "key": "glitch2_05",
+            "duration": 0,
+            "keyframe": false
+        },
+        {
+            "key": "glitch2_06",
+            "duration": 0,
+            "keyframe": false
+        },
+        {
+            "key": "glitch2_07",
+            "duration": 0,
+            "keyframe": false
+        },
+        {
+            "key": "glitch2_08",
+            "duration": 0,
+            "keyframe": false
+        },
+        {
+            "key": "glitch2_09",
+            "duration": 0,
+            "keyframe": false
+        },
+        {
+            "key": "glitch2_10",
+            "duration": 0,
+            "keyframe": false
+        },
+        {
+            "key": "glitch2_11",
+            "duration": 0,
+            "keyframe": false
+        },
+        {
+            "key": "glitch2_12",
+            "duration": 0,
+            "keyframe": false
+        },
+        {
+            "key": "glitch2_13",
+            "duration": 0,
+            "keyframe": false
+        },
+        {
+            "key": "glitch2_14",
+            "duration": 0,
+            "keyframe": false
+        },
+        {
+            "key": "glitch2_15",
+            "duration": 0,
+            "keyframe": false
+        },
+        {
+            "key": "glitch2_16",
+            "duration": 0,
+            "keyframe": false
+        },
+        {
+            "key": "glitch2_17",
+            "duration": 0,
+            "keyframe": false
+        },
+        {
+            "key": "glitch2_18",
+            "duration": 0,
+            "keyframe": false
+        },
+        {
+            "key": "glitch2_19",
+            "duration": 0,
+            "keyframe": false
+        }
+    ],
+    "frameRate": 24,
+    "skipMissedFrames": true,
+    "repeat": -1,
+    "randomFrame": false
+}

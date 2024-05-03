@@ -1,0 +1,134 @@
+{
+    "key": "death",
+    "type": "frame",
+    "frames": [
+        {
+            "key": "death_00",
+            "duration": 0,
+            "keyframe": false
+        },
+        {
+            "key": "death_01",
+            "duration": 0,
+            "keyframe": false
+        },
+        {
+            "key": "death_02",
+            "duration": 0,
+            "keyframe": false
+        },
+        {
+            "key": "death_03",
+            "duration": 0,
+            "keyframe": false
+        },
+        {
+            "key": "death_04",
+            "duration": 0,
+            "keyframe": false
+        },
+        {
+            "key": "death_05",
+            "duration": 0,
+            "keyframe": false
+        },
+        {
+            "key": "death_06",
+            "duration": 0,
+            "keyframe": false
+        },
+        {
+            "key": "death_07",
+            "duration": 0,
+            "keyframe": false
+        },
+        {
+            "key": "death_08",
+            "duration": 0,
+            "keyframe": false
+        },
+        {
+            "key": "death_09",
+            "duration": 0,
+            "keyframe": false
+        },
+        {
+            "key": "death_10",
+            "duration": 0,
+            "keyframe": false
+        },
+        {
+            "key": "death_11",
+            "duration": 0,
+            "keyframe": false
+        },
+        {
+            "key": "death_12",
+            "duration": 0,
+            "keyframe": false
+        },
+        {
+            "key": "death_13",
+            "duration": 0,
+            "keyframe": false
+        },
+        {
+            "key": "death_14",
+            "duration": 0,
+            "keyframe": false
+        },
+        {
+            "key": "death_15",
+            "duration": 0,
+            "keyframe": false
+        },
+        {
+            "key": "death_16",
+            "duration": 0,
+            "keyframe": false
+        },
+        {
+            "key": "death_17",
+            "duration": 0,
+            "keyframe": false
+        },
+        {
+            "key": "death_18",
+            "duration": 0,
+            "keyframe": false
+        },
+        {
+            "key": "death_19",
+            "duration": 0,
+            "keyframe": false
+        },
+        {
+            "key": "death_20",
+            "duration": 0,
+            "keyframe": false
+        },
+        {
+            "key": "death_21",
+            "duration": 0,
+            "keyframe": false
+        },
+        {
+            "key": "death_22",
+            "duration": 0,
+            "keyframe": false
+        },
+        {
+            "key": "death_23",
+            "duration": 0,
+            "keyframe": false
+        },
+        {
+            "key": "death_24",
+            "duration": 0,
+            "keyframe": false
+        }
+    ],
+    "frameRate": 12,
+    "skipMissedFrames": true,
+    "randomFrame": false
+}

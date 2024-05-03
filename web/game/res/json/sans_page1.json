@@ -1,0 +1,160 @@
+{
+    "key": "sans_page1",
+    "type": "frame",
+    "frames": [
+        {
+            "key": "sans_000",
+            "duration": 0,
+            "keyframe": false
+        },
+        {
+            "key": "sans_001",
+            "duration": 0,
+            "keyframe": false
+        },
+        {
+            "key": "sans_002",
+            "duration": 0,
+            "keyframe": false
+        },
+        {
+            "key": "sans_003",
+            "duration": 0,
+            "keyframe": false
+        },
+        {
+            "key": "sans_004",
+            "duration": 0,
+            "keyframe": false
+        },
+        {
+            "key": "sans_005",
+            "duration": 0,
+            "keyframe": false
+        },
+        {
+            "key": "sans_006",
+            "duration": 0,
+            "keyframe": false
+        },
+        {
+            "key": "sans_007",
+            "duration": 0,
+            "keyframe": false
+        },
+        {
+            "key": "sans_008",
+            "duration": 0,
+            "keyframe": false
+        },
+        {
+            "key": "sans_009",
+            "duration": 0,
+            "keyframe": false
+        },
+        {
+            "key": "sans_010",
+            "duration": 0,
+            "keyframe": false
+        },
+        {
+            "key": "sans_011",
+            "duration": 0,
+            "keyframe": false
+        },
+        {
+            "key": "sans_012",
+            "duration": 0,
+            "keyframe": false
+        },
+        {
+            "key": "sans_014",
+            "duration": 0,
+            "keyframe": false
+        },
+        {
+            "key": "sans_015",
+            "duration": 0,
+            "keyframe": false
+        },
+        {
+            "key": "sans_016",
+            "duration": 0,
+            "keyframe": false
+        },
+        {
+            "key": "sans_017",
+            "duration": 0,
+            "keyframe": false
+        },
+        {
+            "key": "sans_018",
+            "duration": 0,
+            "keyframe": false
+        },
+        {
+            "key": "sans_019",
+            "duration": 0,
+            "keyframe": false
+        },
+        {
+            "key": "sans_020",
+            "duration": 0,
+            "keyframe": false
+        },
+        {
+            "key": "sans_021",
+            "duration": 0,
+            "keyframe": false
+        },
+        {
+            "key": "sans_022",
+            "duration": 0,
+            "keyframe": false
+        },
+        {
+            "key": "sans_023",
+            "duration": 0,
+            "keyframe": false
+        },
+        {
+            "key": "sans_024",
+            "duration": 0,
+            "keyframe": false
+        },
+        {
+            "key": "sans_025",
+            "duration": 0,
+            "keyframe": false
+        },
+        {
+            "key": "sans_026",
+            "duration": 0,
+            "keyframe": false
+        },
+        {
+            "key": "sans_027",
+            "duration": 0,
+            "keyframe": false
+        },
+        {
+            "key": "sans_028",
+            "duration": 0,
+            "keyframe": false
+        },
+        {
+            "key": "sans_029",
+            "duration": 0,
+            "keyframe": false
+        },
+        {
+            "key": "sans_030",
+            "duration": 0,
+            "keyframe": false
+        }
+    ],
+    "frameRate": 24,
+    "skipMissedFrames": true,
+    "repeat": -1,
+    "randomFrame": false
+}

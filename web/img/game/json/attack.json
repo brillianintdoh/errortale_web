@@ -1,0 +1,22 @@
+[
+    {
+        "url": "/img/game/Attack/attackg_00.png",
+        "type": "image",
+        "key": "attackg_00"
+    },
+    {
+        "url": "/img/game/Attack/attackg_01.png",
+        "type": "image",
+        "key": "attackg_01"
+    },
+    {
+        "url": "/img/game/Attack/attackg_03.png",
+        "type": "image",
+        "key": "attackg_03"
+    },
+    {
+        "url": "/img/game/Attack/attackg_04.png",
+        "type": "image",
+        "key": "attackg_04"
+    }
+]

@@ -1,0 +1,119 @@
+{
+    "key": "error_blaster",
+    "type": "frame",
+    "frames": [
+        {
+            "key": "error_blaster_00",
+            "duration": 0,
+            "keyframe": false
+        },
+        {
+            "key": "error_blaster_00",
+            "duration": 0,
+            "keyframe": false
+        },
+        {
+            "key": "error_blaster_01",
+            "duration": 0,
+            "keyframe": false
+        },
+        {
+            "key": "error_blaster_01",
+            "duration": 0,
+            "keyframe": false
+        },
+        {
+            "key": "error_blaster_02",
+            "duration": 0,
+            "keyframe": false
+        },
+        {
+            "key": "error_blaster_02",
+            "duration": 0,
+            "keyframe": false
+        },
+        {
+            "key": "error_blaster_03",
+            "duration": 0,
+            "keyframe": false
+        },
+        {
+            "key": "error_blaster_03",
+            "duration": 0,
+            "keyframe": false
+        },
+        {
+            "key": "error_blaster_04",
+            "duration": 0,
+            "keyframe": false
+        },
+        {
+            "key": "error_blaster_04",
+            "duration": 0,
+            "keyframe": false
+        },
+        {
+            "key": "error_blaster_05",
+            "duration": 0,
+            "keyframe": false
+        },
+        {
+            "key": "error_blaster_05",
+            "duration": 0,
+            "keyframe": false
+        },
+        {
+            "key": "error_blaster_06",
+            "duration": 0,
+            "keyframe": false
+        },
+        {
+            "key": "error_blaster_07",
+            "duration": 0,
+            "keyframe": false
+        },
+        {
+            "key": "error_blaster_08",
+            "duration": 0,
+            "keyframe": false
+        },
+        {
+            "key": "error_blaster_09",
+            "duration": 0,
+            "keyframe": false
+        },
+        {
+            "key": "error_blaster_09",
+            "duration": 0,
+            "keyframe": false
+        },
+        {
+            "key": "error_blaster_09",
+            "duration": 0,
+            "keyframe": false
+        },
+        {
+            "key": "error_blaster_10",
+            "duration": 0,
+            "keyframe": false
+        },
+        {
+            "key": "error_blaster_10",
+            "duration": 0,
+            "keyframe": false
+        },
+        {
+            "key": "error_blaster_11",
+            "duration": 0,
+            "keyframe": false
+        },
+        {
+            "key": "error_blaster_11",
+            "duration": 0,
+            "keyframe": false
+        }
+    ],
+    "frameRate": 24,
+    "skipMissedFrames": true,
+    "randomFrame": false
+}

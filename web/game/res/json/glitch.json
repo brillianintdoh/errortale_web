@@ -1,0 +1,54 @@
+{
+    "key": "glitch",
+    "type": "frame",
+    "frames": [
+        {
+            "key": "glitch_1",
+            "duration": 0,
+            "keyframe": false
+        },
+        {
+            "key": "glitch_2",
+            "duration": 0,
+            "keyframe": false
+        },
+        {
+            "key": "glitch_3",
+            "duration": 0,
+            "keyframe": false
+        },
+        {
+            "key": "glitch_4",
+            "duration": 0,
+            "keyframe": false
+        },
+        {
+            "key": "glitch_5",
+            "duration": 0,
+            "keyframe": false
+        },
+        {
+            "key": "glitch_6",
+            "duration": 0,
+            "keyframe": false
+        },
+        {
+            "key": "glitch_7",
+            "duration": 0,
+            "keyframe": false
+        },
+        {
+            "key": "glitch_8",
+            "duration": 0,
+            "keyframe": false
+        },
+        {
+            "key": "glitch_9",
+            "duration": 0,
+            "keyframe": false
+        }
+    ],
+    "frameRate": 10,
+    "skipMissedFrames": true,
+    "randomFrame": false
+}

@@ -1,0 +1,29 @@
+{
+    "key": "attack",
+    "type": "frame",
+    "frames": [
+        {
+            "key": "attackg_00",
+            "duration": 0,
+            "keyframe": false
+        },
+        {
+            "key": "attackg_01",
+            "duration": 0,
+            "keyframe": false
+        },
+        {
+            "key": "attackg_03",
+            "duration": 0,
+            "keyframe": false
+        },
+        {
+            "key": "attackg_04",
+            "duration": 0,
+            "keyframe": false
+        }
+    ],
+    "frameRate": 3,
+    "skipMissedFrames": true,
+    "randomFrame": false
+}

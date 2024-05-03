@@ -1,0 +1,67 @@
+[
+    {
+        "url": "/img/game/battle/gaster_blaster/error/beam.png",
+        "type": "image",
+        "key": "beam_error"
+    },
+    {
+        "url": "/img/game/battle/gaster_blaster/error/error_blaster_00.png",
+        "type": "image",
+        "key": "error_blaster_00"
+    },
+    {
+        "url": "/img/game/battle/gaster_blaster/error/error_blaster_01.png",
+        "type": "image",
+        "key": "error_blaster_01"
+    },
+    {
+        "url": "/img/game/battle/gaster_blaster/error/error_blaster_02.png",
+        "type": "image",
+        "key": "error_blaster_02"
+    },
+    {
+        "url": "/img/game/battle/gaster_blaster/error/error_blaster_03.png",
+        "type": "image",
+        "key": "error_blaster_03"
+    },
+    {
+        "url": "/img/game/battle/gaster_blaster/error/error_blaster_04.png",
+        "type": "image",
+        "key": "error_blaster_04"
+    },
+    {
+        "url": "/img/game/battle/gaster_blaster/error/error_blaster_05.png",
+        "type": "image",
+        "key": "error_blaster_05"
+    },
+    {
+        "url": "/img/game/battle/gaster_blaster/error/error_blaster_06.png",
+        "type": "image",
+        "key": "error_blaster_06"
+    },
+    {
+        "url": "/img/game/battle/gaster_blaster/error/error_blaster_07.png",
+        "type": "image",
+        "key": "error_blaster_07"
+    },
+    {
+        "url": "/img/game/battle/gaster_blaster/error/error_blaster_08.png",
+        "type": "image",
+        "key": "error_blaster_08"
+    },
+    {
+        "url": "/img/game/battle/gaster_blaster/error/error_blaster_09.png",
+        "type": "image",
+        "key": "error_blaster_09"
+    },
+    {
+        "url": "/img/game/battle/gaster_blaster/error/error_blaster_10.png",
+        "type": "image",
+        "key": "error_blaster_10"
+    },
+    {
+        "url": "/img/game/battle/gaster_blaster/error/error_blaster_11.png",
+        "type": "image",
+        "key": "error_blaster_11"
+    }
+]

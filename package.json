@@ -1,0 +1,20 @@
+{
+  "name": "sans_web",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^5.3.3",
+    "css-loader": "^7.0.0",
+    "htmx.org": "^1.9.11",
+    "phaser": "^3.80.1",
+    "style-loader": "^3.3.4",
+    "ts-loader": "^9.5.1"
+  }
+}

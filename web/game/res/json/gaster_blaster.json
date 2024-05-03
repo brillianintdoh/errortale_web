@@ -1,0 +1,69 @@
+{
+    "key": "gaster_blaster",
+    "type": "frame",
+    "frames": [
+        {
+            "key": "blaster_00",
+            "duration": 0,
+            "keyframe": false
+        },
+        {
+            "key": "blaster_01",
+            "duration": 0,
+            "keyframe": false
+        },
+        {
+            "key": "blaster_02",
+            "duration": 0,
+            "keyframe": false
+        },
+        {
+            "key": "blaster_03",
+            "duration": 0,
+            "keyframe": false
+        },
+        {
+            "key": "blaster_04",
+            "duration": 0,
+            "keyframe": false
+        },
+        {
+            "key": "blaster_05",
+            "duration": 0,
+            "keyframe": false
+        },
+        {
+            "key": "blaster_06",
+            "duration": 0,
+            "keyframe": false
+        },
+        {
+            "key": "blaster_07",
+            "duration": 0,
+            "keyframe": false
+        },
+        {
+            "key": "blaster_08",
+            "duration": 0,
+            "keyframe": false
+        },
+        {
+            "key": "blaster_09",
+            "duration": 0,
+            "keyframe": false
+        },
+        {
+            "key": "blaster_10",
+            "duration": 0,
+            "keyframe": false
+        },
+        {
+            "key": "blaster_11",
+            "duration": 0,
+            "keyframe": false
+        }
+    ],
+    "frameRate": 15,
+    "skipMissedFrames": true,
+    "randomFrame": false
+}
